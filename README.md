@@ -12,10 +12,7 @@
 
 - 🌱 Atualmente estou estudando **C#, ASP.NET, MVC e SQL Server**
 
-<h3 align="left">Entre em contato:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/luanspataro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luanspataro" height="30" width="40" /></a>
-</p>
+<br/>
 
 <h2 align="center">⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <br/>
@@ -29,5 +26,5 @@
 <h2 align="center">⚡ Status ⚡</h2>
 <br>
 <div align=center>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=luanspataro&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=luanspataro&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>

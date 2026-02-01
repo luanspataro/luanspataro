@@ -1,24 +1,15 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Honk&size=25&duration=2500&pause=1400&center=true&random=false&width=435&lines=Ol%C3%A1!+%F0%9F%91%8B;Me+chamo+Luan+Spataro!" alt="Typing SVG" />
-  </a>
-</h1>
+![carros](https://github.com/user-attachments/assets/1f5b6b97-4784-4ed5-97a3-94c9838d55e8)
 
-<h3 align="center">Um desenvolvedor em constante aprendizado</h3>
+<img src="https://github.com/user-attachments/assets/67582fee-2b2e-41b6-ac5b-c6920600a688" width="15" /> Sobre mim:
 
-<br/>
-
-- 🔭 Atualmente trabalho como desenvolvedor na **Prefeitura Municipal de Praia Grande**
-
-- 🌱 Atualmente estou estudando **C#, ASP.NET, MVC e SQL Server**
-
-<br/>
-
-<h2 align="center">⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
+- 🔭 Desenvolvedor na *Prefeitura Municipal de Praia Grande*
+- 💻 Formado em *Análise e Desenvolvimento de Sistemas na Fatec PG*
+- 🌱 Atualmente estou estudando *Design Patterns* e atuando com *C#, ASP.NET e SQL Server* 
+- ⚒️ Linguagens-Frameworks-Ferramentas:
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cs,java,python,js,html,css,bootstrap" />
-    <img src="https://skillicons.dev/icons?i=visualstudio,selenium,git" /><br>
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,python,js,html,css,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=docker,visualstudio,selenium,git" /><br>
 </div>
 
 <br/>
